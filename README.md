@@ -1,4 +1,4 @@
-![Screenshot (14)](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/1e61e557-eb30-43e5-954b-771b72142d45)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
