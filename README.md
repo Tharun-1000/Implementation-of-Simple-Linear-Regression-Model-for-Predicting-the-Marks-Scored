@@ -81,22 +81,36 @@ print("RMSE = ",rmse)
 
 
 2.df.tail()
+
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/d76b3e28-fdc5-4f96-b43b-864da8fdfbd9)
 
 
 3.Array value of X
+
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/99ac6f59-81fd-4e1f-9594-0dc15425d1e5)
+
 4.Array value of Y
+
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/60420830-851f-4767-875b-2265fe50bf58)
+
 5.Values of Y prediction
+
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/eeed566f-b571-4ec4-80bf-02de230a3018)
+
 6.Array values of Y test
+
 ![267701155-819d7d3a-6d5e-4430-84b2-b9962d477946](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/fb6565eb-cc32-4d99-9aaa-0c8470a8606a)
+
 7.Training Set Graph
+
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/bda02448-20f5-49fa-9312-8dd7eba79e21)
+
 8.Test Set Graph
+
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/304d438c-7207-433c-9a1b-d3792711d8d1)
+
 9.Values of MSE, MAE and RMSE
+
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/3fe64691-4fed-474e-86df-3060bce4ffde)
 
 
