@@ -75,8 +75,12 @@ print("RMSE = ",rmse)
 ## Output:
 1.df.head()
 ![267700887-6917a59e-d5b2-4cb8-ad9d-c89935d0db36](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/08cf3b3f-419b-45ee-a2fb-94142e6e8520)
+
+
 2.df.tail()
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/d76b3e28-fdc5-4f96-b43b-864da8fdfbd9)
+
+
 3.Array value of X
 ![image](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/99ac6f59-81fd-4e1f-9594-0dc15425d1e5)
 4.Array value of Y
