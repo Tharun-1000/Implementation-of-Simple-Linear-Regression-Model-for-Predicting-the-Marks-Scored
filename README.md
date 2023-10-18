@@ -73,6 +73,8 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
+
+
 1.df.head()
 ![267700887-6917a59e-d5b2-4cb8-ad9d-c89935d0db36](https://github.com/Tharun-1000/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135952958/08cf3b3f-419b-45ee-a2fb-94142e6e8520)
 
